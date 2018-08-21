@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme                    : jekyll-theme-architect
 locale                   : "en-US"
 title                    : "Dr. Kathleen Eckert"
 title_separator          : "-"
