@@ -6,5 +6,5 @@ title: "The Origin of Faint Tidal Features around Galaxies in the RESOLVE Survey
 date: '2018-04-01'
 venue: 'ApJ'
 paperurl: 'http://adsabs.harvard.edu/abs/2018ApJ...857..144H'
-citation: 'Callie E. Hood; Sheila J. Kannappan; David V. Stark; Ian P. Dell'Antonio; Amanda J. Moffett; Kathleen D. Eckert; Mark A. Norris; David Hendel.  ApJ, Volume 857, Issue 2, 144, 19 pp. (2018).'
+citation: 'Callie E. Hood; Sheila J. Kannappan; David V. Stark; Ian P. Dell'Antonio; Amanda J. Moffett; Kathleen D. Eckert; Mark A. Norris; David Hendel. ApJ, Volume 857, Issue 2, 144, 19 pp. (2018).'
 ---
