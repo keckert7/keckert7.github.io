@@ -8,4 +8,3 @@ date: 2013-04-01
 location: "Nashville, TN"
 ---
 
-#This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!

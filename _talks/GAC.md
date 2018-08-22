@@ -8,4 +8,4 @@ date: 2017-01-01
 location: "Greensboro, NC"
 ---
 
-#This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+
