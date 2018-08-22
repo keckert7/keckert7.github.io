@@ -8,4 +8,4 @@ venue: 'ApJ'
 paperurl: 'http://adsabs.harvard.edu/abs/2013ApJ...769...82S'
 citation: 'David V. Stark; Sheila J. Kannappan; Lisa H. Wei; Andrew J. Baker; Adam K. Leroy; Kathleen D. Eckert; and Stuart N. Vogel. ApJ, Volume 769, Issue 1, article id. 82, 21 pp. (2013)'
 ---
-David V. Stark; Sheila J. Kannappan; Lisa H. Wei; Andrew J. Baker; Adam K. Leroy; Kathleen D. Eckert; and Stuart N. Vogel. ApJ, Volume 769, Issue 1, article id. 82, 21 pp. (2013).
+
