@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "Connecting Transitions in Galaxy Properties to Refueling"
+#collection: publications
+#permalink: /publication/2015-10-01-paper-title-number-3
+#excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2013-11-01
+venue: 'ApJ'
+paperurl: 'http://adsabs.harvard.edu/abs/2013ApJ...777...42K'
+citation: 'Sheila J. Kannappan; David V. Stark; Kathleen D. Eckert; Amanda J. Moffett; Lisa H. Wei; D. J. Pisano; Andrew J. Baker; Stuart N. Vogel; Daniel G. Fabricant; Seppo Laine; Mark A. Norris; Shardha Jogee; Natasha Lepore; Loren E. Hough; and Jennifer Weinberg-Wolf. ApJ, Volume 777, Issue 1, article id. 42, 26 pp. (2013).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
