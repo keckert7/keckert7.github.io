@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. Physics cum laude, University of Pennsylvania, 2008
+* M.S. Physics, University of North Carolina, 2013
+* Ph.D Physics, University of North Carolina, 2016
+  * Dissertation Title: "A Mass Census of the Nearby Universe with the RESOLVE Survey
+  * Dissertation Advisor: Sheila Kannappan
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-present: Postdoctoral Fellow
+  * University of Pennsylvania
+  * developing shape measurement algorithms for Euclid and Dark Energy Survey
+  * Supervisor: Gary Bernstein
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2009-2016: Graduate Research Assistant
+  * University of North Carolina
+  * core member of RESOLVE team; measured custom photometry for RESOLVE galaxies and lead determination of galaxy and group mass functions; other duties included observing and reducing optical and HI spectroscopy.
+  * Supervisor: Sheila Kannappan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Observing Experience
+  * SOAR (Goodman spectrograph) --- 50+ nights
+  * SOAR (SPARTAN IR imager) --- 3 nights
+  * Arecibo (L-band receiver) --- 12 hours (+ remote data reduction)
+  * Blanco Telescope (DECam imager) --- 1 night
+
+* Instrumentation
+  * Image slicer: helped to design, build, and commission novel image slicer design for Goodman spectrograph on SOAR telescope allowing RESOLVE to take data across three slices of a galaxy at once. Zemax experience (Advisors: S. Kannappan, G. Cecil)
+  * Grating holder: designed holder with SolidWorks to fit newly purchased grating in pre-existing frame. (Advisors: C. Clemens, S. Kannappan)
+
+* Computation & Statistical Techniques
+  * Completed Coursera Machine Learning (Andrew Ng 2018)
+  * Attended Penn State Astrostatistics Summer School (2011) 
+  * Proficient in Python, git, IDL, IRAF, LaTeX, and other specialized astronomy programs (e.g., SExtractor, SWARP, GAIA, Ds9, etc.).
+  * Working familiarity with SQL, C++, pPXF, velfit/diskfit, group finding, and abundance matching codes.
 
 Publications
 ======
@@ -56,4 +67,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Postdoctoral liaison to faculty selection committee (2018)                    
+* Reviewer for Astrophysical Journal (2017--)
+* Member of Graduate Student Affairs Committee (2013-2014)
+* Member of American Astronomical Society (2010—present)
