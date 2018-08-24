@@ -1,3 +1,10 @@
+---
+title:  "Data & Software"
+layout: archive
+permalink: /data/
+author_profile: true
+---
+
 Data
 ====
 In Eckert et al. (2015), I present reprocessed GALEX UV, SDSS ugriz, 2MASS JHK, and UKIDSS YHK data for the RESOLVE survey (as well new Swift UVOT m2 data for 19 galaxies). These data are provided in a machine readable table on the RESOLVE website.
