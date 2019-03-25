@@ -8,5 +8,5 @@ date: 2015-06-01
 location: "Chapel Hill, NC"
 ---
 
-Computational Astronomy and Physics REU program assistant at the University of North Carolina. Developed python based computational tutorial on frequentist vs. Bayesian parameter fitting.
+Program assistant to the Computational Astronomy and Physics REU at the University of North Carolina. Provided guidance in public presentations and computational research. Developed python based computational tutorial on frequentist vs. Bayesian parameter fitting.
 
