@@ -1,7 +1,7 @@
 ---
 title: "Daisy"
 excerpt: "About Daisy"
-author_profile: false
+author_profile: true
 permalink: /daisy/
 ---
 
