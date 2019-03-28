@@ -11,4 +11,4 @@ I adopted Daisy, a seal-point Himalayan, in 2012 from the Orange County Aminal S
 
 <img src='/images/daisy.pdf'>
 
-![Picture of Daisy2]("https://github.com/keckert7/keckert7.github.io/tree/master/images/daisy.pdf")
+![Picture of Daisy2](../images/daisy.png)
