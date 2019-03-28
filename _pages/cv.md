@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[CV](../files/EckertCV_V2.pdf)
 
 Education
 ======
